@@ -1,0 +1,12 @@
+C:\Users\sang\source\repos\WPF_0815\CCBtn\bin\Debug\CCBtn.dll
+C:\Users\sang\source\repos\WPF_0815\CCBtn\bin\Debug\CCBtn.pdb
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\CCBtn_MarkupCompile.cache
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\CCBtn_MarkupCompile.lref
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\Themes\Generic.baml
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\CCBtn.g.resources
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\CCBtn.Properties.Resources.resources
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\CCBtn.csproj.GenerateResource.cache
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\CCBtn.dll
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\CCBtn.pdb
+C:\Users\sang\source\repos\WPF_0815\CCBtn\obj\Debug\CCBtn.csprojAssemblyReference.cache

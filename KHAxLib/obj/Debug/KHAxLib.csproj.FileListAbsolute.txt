@@ -1,0 +1,13 @@
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\bin\Debug\KHAxLib.exe.config
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\bin\Debug\KHAxLib.exe
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\bin\Debug\KHAxLib.pdb
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\bin\Debug\Interop.KHOpenAPILib.dll
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\bin\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\obj\Debug\Interop.KHOpenAPILib.dll
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\obj\Debug\AxInterop.KHOpenAPILib.dll
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\obj\Debug\KHAxLib.csproj.ResolveComReference.cache
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\obj\Debug\KHAxLib.Form1.resources
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\obj\Debug\KHAxLib.Properties.Resources.resources
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\obj\Debug\KHAxLib.csproj.GenerateResource.cache
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\obj\Debug\KHAxLib.exe
+C:\Users\sang\source\repos\WPF_0815\KHAxLib\obj\Debug\KHAxLib.pdb
