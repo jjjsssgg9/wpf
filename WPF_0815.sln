@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_0815", "WPF_0815\WPF_0815.csproj", "{86EFE935-581A-4592-AA5E-255B291EFEB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KHAxLib", "KHAxLib\KHAxLib.csproj", "{CEE43DC1-7CD4-41F3-BA36-0F6C2C0B1CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCBtn", "CCBtn\CCBtn.csproj", "{BF952C2A-7720-4AB0-9A72-E28D8706A36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86EFE935-581A-4592-AA5E-255B291EFEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86EFE935-581A-4592-AA5E-255B291EFEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86EFE935-581A-4592-AA5E-255B291EFEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86EFE935-581A-4592-AA5E-255B291EFEB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE43DC1-7CD4-41F3-BA36-0F6C2C0B1CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE43DC1-7CD4-41F3-BA36-0F6C2C0B1CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE43DC1-7CD4-41F3-BA36-0F6C2C0B1CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE43DC1-7CD4-41F3-BA36-0F6C2C0B1CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF952C2A-7720-4AB0-9A72-E28D8706A36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF952C2A-7720-4AB0-9A72-E28D8706A36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF952C2A-7720-4AB0-9A72-E28D8706A36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF952C2A-7720-4AB0-9A72-E28D8706A36E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9612B11E-1D7D-45AC-8734-E9C9ED305521}
+	EndGlobalSection
+EndGlobal
